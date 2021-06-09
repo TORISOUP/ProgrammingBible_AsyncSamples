@@ -1,6 +1,9 @@
 # UniTaskサンプル
 
-UniTaskのサンプル集です。
+「[Unityゲーム プログラミング・バイブル 2nd Generation](https://www.borndigital.co.jp/book/22432.html)」の28章「async/awaitとUniTaskによる非同期処理の実装」で用いているUniTaskのサンプル集です。
+
+
+
 以下のアセットを利用しています。
 
 * UniRx 7.1.0
